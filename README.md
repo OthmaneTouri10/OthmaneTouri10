@@ -1,8 +1,6 @@
 
 ### Hi there, I'm Othmane  👋
 
-## I'm a Student in Data Science & Big Data And A Front End Developer!
-
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
