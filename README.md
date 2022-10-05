@@ -3,9 +3,6 @@
 <h4>-  I’m looking to collaborate with other content creators</h4>
 <h4>-  2022 Goals: Contribute more to Open Source projects</h4>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming-language&psig=AOvVaw2u_pqOWcPI4GLZ0R5HKL43&ust=1665073020825000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCw28u-yfoCFQAAAAAdAAAAABAD">
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
