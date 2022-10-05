@@ -1,9 +1,3 @@
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
-
 <h1 align="center">Hi 👋, I'm Othmane</h1>
 <h3 align="center">A passionate Data Scientist / Data Analyst and a hobby frontend developer</h3>
 -  I’m looking to collaborate with other content creators
@@ -18,3 +12,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=othmanetouri10&show_icons=true&locale=en" alt="othmanetouri10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=othmanetouri10&" alt="othmanetouri10" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/othmanetouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="othmanetouri" height="30" width="40" /></a>
+<a href="https://instagram.com/othmanetouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="othmanetouri" height="30" width="40" /></a>
+</p>
+
