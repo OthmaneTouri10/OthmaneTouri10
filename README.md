@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Othmane</h1>
 <h3 align="center">A passionate Data Scientist / Data Analyst and a hobby frontend developer</h3>
-<h2>-  I’m looking to collaborate with other content creators</h2>
-<h2>-  2022 Goals: Contribute more to Open Source projects</h2>
+<h4>-  I’m looking to collaborate with other content creators</h4>
+<h4>-  2022 Goals: Contribute more to Open Source projects</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
